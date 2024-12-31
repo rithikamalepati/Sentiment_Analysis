@@ -17,3 +17,5 @@ This project is a SENTIMENT ANALYSIS WEB APPLICATION that allows users to analyz
   > Backend: Flask, TextBlob for sentiment analysis.
 
   > Framework: Flask handles the communication between the web form and the sentiment analysis logic.
+
+TO RUN THIS CODE U NEED TO TYPE THE COMMAND python app.py IN YOUR VISUAL STUDIO TERMINAL
